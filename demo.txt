@@ -1,0 +1,2 @@
+Hi , Good Afternoon
+I am learning the new verion known as git and git version control system how it works manually
